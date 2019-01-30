@@ -1,0 +1,109 @@
+.yukimus{
+    width:50%;
+    float:left;
+}
+.yukimu{
+    width:50%;
+    background-color:orange;
+    color:white;
+    justify-content:flex-start;
+
+}
+.bigone{
+    display:flex;
+}
+.lucyy{
+    width:50%;
+    float:left;
+}
+.lucyyy{
+    width:50%;
+    background-color:pink;
+    color:white;
+    justify-content:flex-end;
+}
+.names{
+        text-align:center;
+}
+.yuki,.lucy{
+    font-size:80px;
+
+}
+.one{
+    float:right;
+    color:pink;
+    text-shadow: 18px 18px orange;
+    font-size:200px;
+    padding:0px;
+}
+.two{
+    float:left;
+    color:orange;
+    text-shadow: 18px 18px pink;
+    font-size:200px;
+    padding:0px;
+}
+.yuki{
+    color:orange;
+}
+.centerbuttons{
+    text-align:center;
+}
+.lucy{
+    color:pink;
+}
+.stars{
+    font-size:45px;
+    color:orange;
+    text-shadow:5px 5px pink;
+}
+.bigdaddy{
+    display:flex;
+    justify-content:center;
+    line-height:0px;
+}
+body{
+    font-family: 'Oswald', sans-serif;
+}
+.good{
+    font-size:80px;
+    text-align:center;
+    background-color:orange;
+    overflow:hidden;
+    color:white;
+    width:100%;
+}
+.doggies{
+    display:flex;
+    position:relative;
+    width:33%;
+    margin:auto;
+    justify-content:center;
+}
+.buttonone{
+    color:white;
+    background-color:pink;
+    border:solid 0px white;
+    font-family: 'Oswald', sans-serif;
+    font-size:36px;
+    margin:20px 20px 20px 20px;
+    width:45%;
+    text-align:center;
+}
+.buttonone:hover{
+    background-color:orange;
+    background-size:100%;
+}
+.buttontwo{
+    color:white;
+    background-color:orange;
+    border:solid 0px white;
+    font-family: 'Oswald', sans-serif;
+    font-size:36px;
+    margin:20px 20px 20px 20px;
+    Width:45%;
+    text-align:center;
+}
+.buttontwo:hover{
+    background-color:pink;
+}
